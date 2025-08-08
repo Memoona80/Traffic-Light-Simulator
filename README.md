@@ -27,5 +27,5 @@ When a pedestrian is detected via IR sensor, both North-South and East-West ligh
 ---
 
 ## 💻 Arduino Code
-```cpp
-// Paste your code here for quick reference
+  See the `traffic_light_simulator.ino` file in this repository
+
